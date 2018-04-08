@@ -48,7 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Browser.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="ListPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
